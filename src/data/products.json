@@ -1,0 +1,26 @@
+ [
+    {
+        "id": "1",
+        "title": "Iphone 7",
+        "price": "1350,00",
+        "imageUrl": "/images/iphone16/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium_AV1.webp" 
+    },
+    {
+        "id": "2",
+        "title": "Neuer Dyson Airwrap",
+        "price": "549,00",
+        "imageUrl": "/images/dysone/533670-01.jpeg" 
+    },
+    {
+        "id": "3",
+        "title": "APPLE MacBook Air (2022)",
+        "price": "549,00",
+        "imageUrl": "/images/macbook/ASSET_MMS_94547010.webp" 
+    },
+    {
+        "id": "4",
+        "title": "LG OLED55C43LA OLED evo TV (Flat, 55 Zoll / 139 cm, OLED 4K, SMART TV)",
+        "price": "2399,00",
+        "imageUrl": "/images/lg/ASSET_MMS_145044677.webp" 
+    }
+ ]
